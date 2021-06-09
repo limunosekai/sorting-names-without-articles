@@ -1,12 +1,12 @@
-## TEXT-SHADOW-MOUSE-MOVE-EFFECT
+## SORTING-NAMES-WITHOUT-ARTICLE
 
-[Go to WEB](https://limunosekai.github.io/text-shadow-mouse-move-effect/)
+[Go to WEB](https://limunosekai.github.io/sorting-names-without-articles/)
 
 <br>
 
 ### ✨ Main Logic
 
-![1](./img/K-007.png)
+![1](./img/K-001.png)
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ### ✨ Screen Shot
 
-![2](./img/K-006.png)
+![2](./img/K-002.png)
 
 <br>
 
